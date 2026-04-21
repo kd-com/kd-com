@@ -36,7 +36,7 @@ $ cat profile.json
   "status"    : "En formation 🚀",
   "location"  : "France 🇫🇷",
   "passions"  : ["Musique 🎵", "Tatouage 🖊️", "Spectacle & Culture 🎭"],
-  "open_to"   : "Alternance · Stage · Collaboration"
+  "open_to"   : "CDI • fullremote • freelance • Collaboration"
 }
 ```
 
