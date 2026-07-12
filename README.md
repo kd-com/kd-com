@@ -1,5 +1,4 @@
 <div align="center">
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,25:25274d,50:2d1b4e,75:16213e,100:0f3460&height=220&section=header&text=Kevin%20Deffay&fontSize=72&fontColor=b794f6&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Developer%20%C2%B7%20Web%20Integrator%20%C2%B7%20KD-COM&descAlignY=58&descColor=cbb8f0" width="100%"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=B794F6&center=true&vCenter=true&width=700&lines=WordPress+%2B+PHP+%2B+SASS+%2B+JavaScript+Architect;10%2B+Years+Web+Design+%26+Front-End+Integration;RNCP+Level+6+Full-Stack+Web+%26+Mobile+Developer;Independent+Developer+%40+KD-COM+since+2010" alt="Typing SVG" />
