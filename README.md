@@ -33,7 +33,7 @@ $ cat profile.json
   "name"      : "kd-com",
   "role"      : "Fullstack Developer (React · Node.js)",
   "school"    : "La Capsule — Bootcamp Développeur Web & Mobile",
-  "status"    : "En formation 🚀",
+  "status"    : "Diplomé 🚀",
   "location"  : "France 🇫🇷",
   "passions"  : ["Musique 🎵", "Tatouage 🖊️", "Spectacle & Culture 🎭"],
   "open_to"   : "CDI • fullremote • freelance • Collaboration"
