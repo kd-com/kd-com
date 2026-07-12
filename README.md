@@ -1,4 +1,5 @@
 <div align="center">
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,25:25274d,50:2d1b4e,75:16213e,100:0f3460&height=220&section=header&text=Kevin%20Deffay&fontSize=72&fontColor=b794f6&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Developer%20%C2%B7%20Web%20Integrator%20%C2%B7%20KD-COM&descAlignY=58&descColor=cbb8f0" width="100%"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=B794F6&center=true&vCenter=true&width=700&lines=WordPress+%2B+PHP+%2B+SASS+%2B+JavaScript+Architect;10%2B+Years+Web+Design+%26+Front-End+Integration;RNCP+Level+6+Full-Stack+Web+%26+Mobile+Developer;Independent+Developer+%40+KD-COM+since+2010" alt="Typing SVG" />
@@ -108,6 +109,25 @@ open_to:
 ---
 
 ## `04` Featured Projects
+
+<details>
+<summary><b>💉 Pigment — Multi-Tenant SaaS for Tattoo Studios</b></summary>
+<br/>
+
+A multi-tenant SaaS platform built for tattoo studio professionals, covering client management, appointment scheduling, electronic consent workflows, post-session care tracking, and GDPR compliance. Developed as the central project for the RNCP Level 6 certification dossier and oral defense, following a structured sprint methodology (Sprint 0: foundations → Sprint 1: MVP).
+
+The core differentiator is an end-to-end electronic consent signing flow: tokenized public links → HTML5 canvas signature capture → server-side PDF generation via Puppeteer → token invalidation. Multi-tenant isolation is enforced architecturally, with every collection scoped to a root `studios` entity through middleware-injected `studioId`, alongside role-based access control (`tatoueur`, `admin`, `assistant`).
+
+| Aspect | Detail |
+|---|---|
+| Stack | React + Vite, Redux Toolkit, SCSS (7-1 architecture), Node.js, Express 5, Mongoose/MongoDB Atlas, JWT auth |
+| Scale | Monorepo (pnpm workspaces) with dedicated client/api apps; MongoDB aggregation pipelines for analytics dashboards |
+| Performance | Paginated client search combining MongoDB `$text` indexing with regex fallback |
+| Security | Multi-tenant data isolation via scope middleware, JWT access/refresh tokens, Cloudflare R2 storage encrypted with AES-256-GCM, Zod-validated environment config |
+| Impact | End-to-end digital consent workflow replacing paper forms, with automated PDF archiving and email delivery via Resend |
+| Repository | Private (RNCP certification project) |
+
+</details>
 
 <details>
 <summary><b>🧩 KD-COM WordPress Ecosystem</b></summary>
