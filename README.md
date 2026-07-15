@@ -311,17 +311,7 @@ Independent practice building and maintaining WordPress sites for SMBs and assoc
 
 ---
 
-## `08` GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy-fork-two.vercel.app/?username=kd-com&theme=radical&no-frame=true&row=1&column=6&margin-w=10" />
-
-</div>
-
----
-
-## `09` Contribution Activity
+## `08` Contribution Activity
 
 <div align="center">
 
@@ -331,7 +321,7 @@ Independent practice building and maintaining WordPress sites for SMBs and assoc
 
 ---
 
-## `10` Contribution Snake
+## `09` Contribution Snake
 
 <div align="center">
 
@@ -341,7 +331,7 @@ Independent practice building and maintaining WordPress sites for SMBs and assoc
 
 ---
 
-## `11` Current Focus
+## `10` Current Focus
 
 ```yaml
 current_focus:
@@ -362,7 +352,7 @@ current_focus:
 
 ---
 
-## `12` Connect
+## `11` Connect
 
 <div align="center">
 
