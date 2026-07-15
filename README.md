@@ -297,9 +297,9 @@ Independent practice building and maintaining WordPress sites for SMBs and assoc
 
 <div align="center">
 
-<img height="165em" src="https://github-readme-stats-kd-com.vercel.app/api?username=kd-com&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true&title_color=b794f6&icon_color=b794f6&text_color=cbb8f0&bg_color=0d0221"/>
+<img height="165em" src="https://github-readme-stats-kd-com.vercel.app/api?username=kd-com&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true&title_color=b794f6&icon_color=b794f6&text_color=cbb8f0&bg_color=0d0221&v=2"/>
 
-<img height="165em" src="https://github-readme-stats-kd-com.vercel.app/api/top-langs/?username=kd-com&layout=compact&theme=radical&hide_border=true&title_color=b794f6&text_color=cbb8f0&bg_color=0d0221"/>
+<img height="165em" src="https://github-readme-stats-kd-com.vercel.app/api/top-langs/?username=kd-com&layout=compact&theme=radical&hide_border=true&title_color=b794f6&text_color=cbb8f0&bg_color=0d0221&v=2"/>
 
 </div>
 
