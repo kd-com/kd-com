@@ -315,7 +315,7 @@ Independent practice building and maintaining WordPress sites for SMBs and assoc
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=kd-com&theme=radical&no-frame=true&row=1&column=6&margin-w=10" />
+<img src="https://github-profile-trophy-liard-delta.vercel.app/?username=kd-com&theme=radical&no-frame=true&row=1&column=6&margin-w=10" />
 
 </div>
 
